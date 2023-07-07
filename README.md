@@ -45,12 +45,12 @@ Your privacy and security are of utmost importance. helloWorld ensures that all 
 [GitHub](link)
 
 ### Theresa Kennelly
-[Linkedin](link)
-[GitHub](link)
+[Linkedin](https://www.linkedin.com/in/theresa-kennelly/)
+[GitHub](https://github.com/tkennelly)
 
 ### John Brooks
-[Linkedin](link)
-[GitHub](link)
+[Linkedin](https://www.linkedin.com/in/johnbrooks-webdev/)
+[GitHub](https://github.com/quark934)
 
 ### Kevin Li
 [Linkedin](link)
